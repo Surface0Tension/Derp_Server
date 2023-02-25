@@ -1,15 +1,16 @@
-{"Regions": {
-			"900": {
-				"RegionID": 900,
-				"RegionCode": "myderp",
-				"RegionName": "Hong Kong",
-				"Nodes": [
-					{
-						"Name":     "1",
-						"RegionID": 900,
-						"HostName": "hk.derp.lzhang.dev",
-					},
-				],
-			},
+{
+	"Regions": {
+		"900": {
+			"RegionID": 900,
+			"RegionCode": "myderp",
+			"RegionName": "Hong Kong",
+			"Nodes": [
+				{
+					"Name":     "1",
+					"RegionID": 900,
+					"HostName": "hk.derp.lzhang.dev",
+				},
+			],
 		},
+	},
 }
