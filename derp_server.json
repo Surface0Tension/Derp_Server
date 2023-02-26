@@ -1,2 +1,2 @@
-{"Regions":{"900": {"RegionID": 900,"RegionCode": "myderp","RegionName": "Hong Kong","Nodes": [{"Name":"1","RegionID": 900,"HostName": "hk.derp.lzhang.dev"}]}},
- {"901":{"RegionID":   901,"RegionCode": "myderp-kr","RegionName": "Oracle Korea Seoul","Nodes": [{"Name":"1","RegionID": 901,"HostName": "kr.derp.lzhang.dev"}]}}}
+{"Regions":{"900": {"RegionID":900,"RegionCode": "myderp","RegionName": "Hong Kong","Nodes": [{"Name":"1","RegionID": 900,"HostName": "hk.derp.lzhang.dev"}]}},
+ {"901":{"RegionID":901,"RegionCode": "myderp-kr","RegionName": "Oracle Korea Seoul","Nodes": [{"Name":"1","RegionID": 901,"HostName": "kr.derp.lzhang.dev"}]}}}
